@@ -12,6 +12,7 @@
 }
 
 body{
+    
     font-family: read;
 }
 
@@ -217,7 +218,7 @@ h2{
 }
 
 .info-1{
-    background-image: url(imagenes/Diseño_sin_título-removebg-preview.png);
+    color: #0b0d2b;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -229,7 +230,7 @@ h2{
 }
 
 .info-content h2, span{
-    color: #fffdfc;
+    color:#0b0d2b;
 }
 
 .info-circle{
@@ -245,24 +246,25 @@ h2{
     align-items: center;
     text-align: center;
     margin: 0 10px;
+    color: #0b0d2b;
 }
 
 .circle-1{
     height: 100px;
     width: 100px;
-    border: 1px solid #fffdfc;
+    border: 1px solid #0b0d2b;
     border-radius: 56%;
     padding-top: 35px;
 }
 
 .circle-1 h3{
-    color: floralwhite;
+    color:#0b0d2b;
     font-size: 16px;
 }
 
 .circle-txt p{
     margin-top: 25px;
-    color: #fffdfc;
+    color: #0b0d2b;
 }
 
 .info-2{
