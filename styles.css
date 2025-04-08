@@ -233,6 +233,11 @@ h2{
     color:#f7f7f8;
 }
 
+.info-content h4{
+    color:#3d3de2;
+    font-size: 25px;
+}
+
 .info-circle{
     display: flex;
     justify-content: space-between;
